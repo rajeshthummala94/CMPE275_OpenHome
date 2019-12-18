@@ -2,6 +2,8 @@
 
 ## Team 14 CMPE 275 Term Project
 
+## URL to access Application: http://54.183.187.25:3000/
+
 ### Team Members:
 - Name: Nithin Gollanapally,             email:nithin.gollanapally@sjsu.edu,   SJSU ID: 013820599
 - Name: Rajesh Thummala,                 email: rajesh.thummala@sjsu.edu,      SJSU ID: 013829179
