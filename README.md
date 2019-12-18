@@ -5,6 +5,6 @@
 ### Team Members:
 - Name: Nithin Gollanapally,             email:
 - Name: Rajesh Thummala,                 email: rajesh.thummala@sjsu.edu,      SJSU ID: 013829179
-- Name: Nidhi Tattur Aravinda Kumar,     email:
+- Name: Nidhi Tattur Aravinda Kumar,     email: nidhi.tatturaravindakumar@sjsu.edu SJSU ID: 013845494
 - Name: Akshay Bajaj,                    email:
 
