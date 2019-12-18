@@ -27,4 +27,5 @@ Backend
 
 #### Find Test Case Execution and Result: [Test Cases](https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Test%20Cases.xlsx)
 
-#### Find Test Plan Execution: [Test Plan] ###### (https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Test%20Plan.xlsx)
+#### Find Test Plan Execution: [Test Plan] 
+###### (https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Test%20Plan.xlsx)
