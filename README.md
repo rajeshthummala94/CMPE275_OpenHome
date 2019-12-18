@@ -23,6 +23,6 @@ Backend
 
 
 
-### Find a link to the project report: [Project Report](https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Report.pdf)
+#### Find a link to the project report: [Project Report](https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Report.pdf)
 
-### Find Test Case Execution and Result: [Test Cases](https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Test%20Cases.xlsx)
+#### Find Test Case Execution and Result: [Test Cases](https://github.com/rajeshthummala94/CMPE275_OpenHome/blob/master/Group14_CMPE275_Test%20Cases.xlsx)
