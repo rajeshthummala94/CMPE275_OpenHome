@@ -18,8 +18,8 @@ Frontend
 3. Run openHome frontend using npm start
 
 Backend
-1. Download the source code and import the file.
-2. Navigate to openHomeApplication.class and run the file on a server. 
+1. Download the source code and import the file
+2. Navigate to openHomeApplication.class and run the file on a server
 
 
 
