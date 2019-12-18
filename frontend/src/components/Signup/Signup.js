@@ -285,7 +285,7 @@ class SignUp extends Component {
                                     <br />
                                     <div style={{ textAlign: "center" }}>SignUp
                                         <GoogleLogin
-                                            clientId="687175157154-nt552cr26vvr70aaol51mvo6dpt4a7cp.apps.googleusercontent.com"
+                                            clientId="171832382206-i0cjiqmpiugde4nl2bd75i74k7bsh2ia.apps.googleusercontent.com"
                                             onSuccess={responseGoogle}
                                             onFailure={responseGoogle}
                                             cookiePolicy={"single_host_origin"}
