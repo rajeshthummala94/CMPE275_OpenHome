@@ -294,7 +294,7 @@ class SignUp extends Component {
                                     <br></br>
                                     <div style={{ textAlign: "center" }}>SignUp
                                         <FacebookLogin
-                                            appId="2505133353101658"
+                                            appId="2562769363999319"
                                             autoLoad={false}
                                             fields="name,email,picture"
                                             callback={responseFacebook}
